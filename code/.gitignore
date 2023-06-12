@@ -1,0 +1,4 @@
+/node_modules
+.env
+# shudhu file e back-slash dite hoy na (jmn : .env ekta file)
+# folder ke dte hoy (jemon: nodu_modules holo folder)
